@@ -10,6 +10,7 @@
   between shell and host
 - Used BSD (flock) lock control file reading and writing permissions, supporting multithread
   access to the file system at the same time
+- For more information, refer to [Project report](./resource/Project%20report.pdf).
 
 ## Install
 ### Compile with Integrated environment
